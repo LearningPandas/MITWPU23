@@ -1,5 +1,6 @@
 # LearningPandas
 MIT-WPU BCA-23 
 
-download only .php files and contact.html
+download only .php files and contact.html + dashboard.js
+
 
